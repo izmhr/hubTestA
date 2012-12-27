@@ -28,4 +28,6 @@ this is first edit on the branch "toPushIzmhr"
 izmhr2 toPushIzmhr ブランチから統合後、初の書き込み
 2012/12/27 23:10
 ---------------------------
-
+from izmhr vim 4 utfにならないな。
+2012/12/27 23:34
+---------------------------
